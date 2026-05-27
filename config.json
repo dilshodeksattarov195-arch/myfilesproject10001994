@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachepave",
+        "uuid": 1579248,
+        "checksum": "hu7hx8"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
